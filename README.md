@@ -1,10 +1,6 @@
 # Clustering (w/ Python & R)
 This repository contains the Clustering algorithms in R and Python (Hierarchical Clustering &amp; K-Means Clustering). Implemented to analyze the similar group of customers from the Mall Customer Data.
 
-
-# Regressions (w/ Python & R)
-This repository consists of multiple clustering techniques such as Hierarchical Clustering and K-Means clustering that helps us identify the nature of data points wirh similar feature.
-
 # **Project name:** Clustering (w/ Python & R)
 
 ## Description
