@@ -25,8 +25,4 @@ which can help us focus on group of observation with similar features rather tha
 ## Contributing
 &nbsp;&nbsp;&nbsp;You can implement both models on the same dataset to determine the most accurate model.
 
-## Credits 
-&nbsp;&nbsp;&nbsp;This was an individual project.
-
-**License:** Licenced by me.
 
